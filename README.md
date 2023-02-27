@@ -1,5 +1,5 @@
 # freeCodeCamp
-These are the "learning files" for @rafaelmuzel user from freeCodeCamp.org during JS studies. 
+These are the "learning files" for @rafaelmuzel user from freeCodeCamp.org during studies.
 
 Backup of solutions for some of the exercises that I consider most important or are "challenges".
 
